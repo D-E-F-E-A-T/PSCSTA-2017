@@ -24,9 +24,7 @@ public class spacerace {
 			if(finalTime < finalSpeed) {
 				name = n1;
 				finalSpeed = finalTime;
-			} else {
-		
-			}
+			} 
 		}
 		System.out.println(name + " finished in " + finalSpeed + " seconds");
 	}
